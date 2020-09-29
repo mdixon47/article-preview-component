@@ -11,7 +11,7 @@ const Home = () => (
       <div className="bg-white p-8 rounded-bl-md rounded-br-md lg:rounded-bl-none lg:rounded-tr-md">
         <h2 className="text-gray-700 font-semibold">Shift overall look and fell by adding these wonderful touches to furniture in your home</h2>
         <p className="text-sm text-gray-600 mt-4">Ever been in a room and felt like something was missing? Perhaps it felt slightly bare and uninviting. I've got some simple tips to help you make any room feel complete.</p>
-        <div className="flex items-center mt-8 lg:mt-4">
+        <div className="flex items-center mt-8">
           <div className="flex items-center">
             <img className="h-10 w-10 rounded-full" src="/images/avatar-michelle.jpg" alt="" />
             <div className="ml-4">
